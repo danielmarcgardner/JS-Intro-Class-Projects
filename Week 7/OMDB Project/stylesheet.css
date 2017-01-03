@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+}
+#title{
+  align-items: center;
+  width: 400px
+}
+input{
+  align-items: center;
+  width: 400px
+}
+button{
+color: #fff;
+background-color: #286090;
+border-color: #122b40;
+}
