@@ -1,0 +1,39 @@
+body {
+  background-color: #282828;
+  padding: 20px;
+}
+
+main {
+  width: 600px;
+  margin: auto;
+  background-color: #fff;
+  border: 20px solid #e53935;
+  padding: 10px 0 20px 0;
+  border-radius: 10px;
+  text-align: center;
+  font-family: arial;
+}
+
+button {
+  background-color:#bf302c;
+  border: none;
+  color:#fff;
+  font-size:14px;
+  padding:6px 18px;
+}
+
+button:focus { outline: none;  }
+
+.text-style {
+  color: #bf302c;
+  font-size: 24px;
+  font-family: times, serif;
+}
+
+.hide {
+  display:none;
+}
+
+.show{
+  display:block;
+}
